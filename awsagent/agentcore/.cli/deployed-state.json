@@ -1,0 +1,23 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "awsagent": {
+            "runtimeId": "awsagent_awsagent-cSC0n2BrYY",
+            "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+            "roleArn": "arn:aws:iam::536929972262:role/AgentCore-awsagent-defaul-ApplicationAgentAwsagentR-tg9P1SYZOoEx"
+          }
+        },
+        "credentials": {
+          "awsagentOpenAI": {
+            "credentialProviderArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:token-vault/default/apikeycredentialprovider/awsagentOpenAI"
+          }
+        },
+        "stackName": "AgentCore-awsagent-default",
+        "identityKmsKeyArn": "arn:aws:kms:ap-southeast-1:536929972262:key/3a730d4b-b4a8-4fe8-81df-51e741e9b48e",
+        "deployHash": "815ecba0955271f9"
+      }
+    }
+  }
+}

@@ -1,0 +1,1102 @@
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:43:03.072Z
+================================================================================
+
+[14:43:03.072] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:43:03.072Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:43:10.505] INVOKE RESPONSE (7433ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:43:10.505Z",
+  "durationMs": 7433,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:43:15.734Z
+================================================================================
+
+[14:43:15.735] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:43:15.734Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:43:23.145] INVOKE RESPONSE (7411ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:43:23.145Z",
+  "durationMs": 7411,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:43:27.080Z
+================================================================================
+
+[14:43:27.080] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:43:27.080Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:43:34.526] INVOKE RESPONSE (7446ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:43:34.526Z",
+  "durationMs": 7446,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:43:37.568Z
+================================================================================
+
+[14:43:37.568] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:43:37.568Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:43:44.902] INVOKE RESPONSE (7334ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:43:44.902Z",
+  "durationMs": 7334,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:43:47.741Z
+================================================================================
+
+[14:43:47.741] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:43:47.741Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:43:56.976] INVOKE RESPONSE (9235ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:43:56.976Z",
+  "durationMs": 9235,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:43:59.733Z
+================================================================================
+
+[14:43:59.733] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:43:59.733Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:44:27.911Z
+================================================================================
+
+[14:44:27.912] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:44:27.912Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:44:35.880] INVOKE RESPONSE (7968ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:35.880Z",
+  "durationMs": 7968,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:44:28.931Z
+================================================================================
+
+[14:44:28.945] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:44:28.943Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:44:36.031] INVOKE RESPONSE (7088ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:36.031Z",
+  "durationMs": 7088,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:36.460] INVOKE RESPONSE (7640ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:36.460Z",
+  "durationMs": 7640,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:44:29.815Z
+================================================================================
+
+[14:44:29.818] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:44:29.817Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:44:36.399] INVOKE RESPONSE (7094ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:36.399Z",
+  "durationMs": 7094,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:36.483] INVOKE RESPONSE (7164ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:36.483Z",
+  "durationMs": 7164,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:36.745] INVOKE RESPONSE (7527ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:36.745Z",
+  "durationMs": 7527,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:36.933] INVOKE RESPONSE (7493ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:36.933Z",
+  "durationMs": 7493,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:37.064] INVOKE RESPONSE (7637ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:37.064Z",
+  "durationMs": 7637,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:37.273] INVOKE RESPONSE (7456ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:37.274Z",
+  "durationMs": 7456,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:37.315] INVOKE RESPONSE (7511ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:37.315Z",
+  "durationMs": 7511,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:44:48.911Z
+================================================================================
+
+[14:44:48.933] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:44:48.933Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:44:56.425] INVOKE RESPONSE (7803ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:56.425Z",
+  "durationMs": 7803,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:56.742] INVOKE RESPONSE (7809ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:56.742Z",
+  "durationMs": 7809,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:44:49.903Z
+================================================================================
+
+[14:44:49.918] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:44:49.918Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:44:56.622] INVOKE RESPONSE (7277ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:56.623Z",
+  "durationMs": 7277,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:56.713] INVOKE RESPONSE (7060ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:56.714Z",
+  "durationMs": 7060,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:56.902] INVOKE RESPONSE (7836ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:56.902Z",
+  "durationMs": 7836,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:57.157] INVOKE RESPONSE (7583ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:57.157Z",
+  "durationMs": 7583,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:57.526] INVOKE RESPONSE (7608ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:57.527Z",
+  "durationMs": 7608,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:44:59.192] INVOKE RESPONSE (9663ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:59.192Z",
+  "durationMs": 9663,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:44:50.114Z
+================================================================================
+
+[14:44:50.118] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:44:50.118Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:44:59.648] INVOKE RESPONSE (9530ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:44:59.649Z",
+  "durationMs": 9530,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:49:10.697Z
+================================================================================
+
+[14:49:10.723] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:49:10.723Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:49:18.562] INVOKE RESPONSE (7839ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:18.563Z",
+  "durationMs": 7839,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:49:11.321Z
+================================================================================
+
+[14:49:11.323] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:49:11.323Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:49:18.625] INVOKE RESPONSE (7514ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:18.625Z",
+  "durationMs": 7514,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:18.700] INVOKE RESPONSE (7400ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:18.700Z",
+  "durationMs": 7400,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:18.733] INVOKE RESPONSE (7412ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:18.733Z",
+  "durationMs": 7412,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:19.224] INVOKE RESPONSE (7984ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:19.225Z",
+  "durationMs": 7984,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:19.237] INVOKE RESPONSE (8023ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:19.237Z",
+  "durationMs": 8023,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:20.331] INVOKE RESPONSE (9271ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:20.332Z",
+  "durationMs": 9271,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:20.758] INVOKE RESPONSE (9637ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:20.758Z",
+  "durationMs": 9637,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:49:12.079Z
+================================================================================
+
+[14:49:12.080] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:49:12.080Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:49:18.962] INVOKE RESPONSE (6919ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:18.962Z",
+  "durationMs": 6919,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:19.468] INVOKE RESPONSE (7388ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:19.468Z",
+  "durationMs": 7388,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:49:34.812Z
+================================================================================
+
+[14:49:34.813] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:49:34.813Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:49:41.276] INVOKE RESPONSE (7254ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:41.276Z",
+  "durationMs": 7254,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:41.702] INVOKE RESPONSE (7639ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:41.702Z",
+  "durationMs": 7639,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:41.706] INVOKE RESPONSE (7103ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:41.706Z",
+  "durationMs": 7103,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:41.935] INVOKE RESPONSE (7473ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:41.935Z",
+  "durationMs": 7473,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:41.997] INVOKE RESPONSE (7386ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:41.997Z",
+  "durationMs": 7386,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:42.033] INVOKE RESPONSE (7990ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:42.033Z",
+  "durationMs": 7990,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:42.180] INVOKE RESPONSE (7416ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:42.180Z",
+  "durationMs": 7416,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:42.196] INVOKE RESPONSE (7408ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:42.196Z",
+  "durationMs": 7408,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:42.261] INVOKE RESPONSE (7448ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:42.261Z",
+  "durationMs": 7448,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:49:43.972] INVOKE RESPONSE (9514ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:49:43.972Z",
+  "durationMs": 9514,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:49:58.998Z
+================================================================================
+
+[14:49:59.013] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:49:59.013Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:50:06.065] INVOKE RESPONSE (7733ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:06.065Z",
+  "durationMs": 7733,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:06.215] INVOKE RESPONSE (7525ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:06.215Z",
+  "durationMs": 7525,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:06.216] INVOKE RESPONSE (7728ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:06.216Z",
+  "durationMs": 7728,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:07.267] INVOKE RESPONSE (9083ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:07.268Z",
+  "durationMs": 9083,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:08.567] INVOKE RESPONSE (9554ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:08.567Z",
+  "durationMs": 9554,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:49:59.566Z
+================================================================================
+
+[14:49:59.567] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:49:59.567Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:50:06.688] INVOKE RESPONSE (7491ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:06.688Z",
+  "durationMs": 7491,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:07.027] INVOKE RESPONSE (7631ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:07.027Z",
+  "durationMs": 7631,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:07.039] INVOKE RESPONSE (7472ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:07.039Z",
+  "durationMs": 7472,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:07.410] INVOKE RESPONSE (8032ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:07.410Z",
+  "durationMs": 8032,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:09.214] INVOKE RESPONSE (9991ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:09.214Z",
+  "durationMs": 9991,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:50:22.900Z
+================================================================================
+
+[14:50:22.925] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:50:22.925Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:50:30.590] INVOKE RESPONSE (7665ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.591Z",
+  "durationMs": 7665,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:32.418] INVOKE RESPONSE (9740ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:32.421Z",
+  "durationMs": 9740,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+================================================================================
+AGENTCORE INVOKE LOG
+Agent: awsagent
+Runtime ARN: arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY
+Region: ap-southeast-1
+Session ID: none
+Started: 2026-06-10T06:50:23.508Z
+================================================================================
+
+[14:50:23.515] INVOKE REQUEST (Session: none)
+
+--- REQUEST ---
+{
+  "timestamp": "2026-06-10T06:50:23.515Z",
+  "agent": "awsagent",
+  "runtimeArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:runtime/awsagent_awsagent-cSC0n2BrYY",
+  "region": "ap-southeast-1",
+  "prompt": "hello"
+}
+--- END REQUEST ---
+
+[14:50:30.421] INVOKE RESPONSE (7192ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.421Z",
+  "durationMs": 7192,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:30.512] INVOKE RESPONSE (7082ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.512Z",
+  "durationMs": 7082,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:30.860] INVOKE RESPONSE (7550ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.861Z",
+  "durationMs": 7550,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:30.873] INVOKE RESPONSE (7555ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.873Z",
+  "durationMs": 7555,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:30.935] INVOKE RESPONSE (7468ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.935Z",
+  "durationMs": 7468,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
+[14:50:30.948] INVOKE RESPONSE (7659ms)
+
+--- RESPONSE ---
+{
+  "timestamp": "2026-06-10T06:50:30.948Z",
+  "durationMs": 7659,
+  "success": true,
+  "response": "Mock response: This is a simulated agent response."
+}
+--- END RESPONSE ---
+
