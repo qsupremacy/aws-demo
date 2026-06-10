@@ -1,0 +1,774 @@
+本轮开始，并发数： 20
+[user-60] memory_records: 3, elapsed: 0.611s
+[user-37] memory_records: 3, elapsed: 0.639s
+[user-59] memory_records: 3, elapsed: 0.647s
+[user-13] memory_records: 3, elapsed: 0.665s
+[user-63] memory_records: 3, elapsed: 0.667s
+[user-55] memory_records: 3, elapsed: 0.706s
+[user-27] memory_records: 3, elapsed: 0.723s
+[user-99] memory_records: 3, elapsed: 0.720s
+[user-17] memory_records: 3, elapsed: 0.719s
+[user-48] memory_records: 3, elapsed: 0.720s
+[user-46] memory_records: 3, elapsed: 0.715s
+[user-22] memory_records: 3, elapsed: 0.728s
+[user-52] memory_records: 3, elapsed: 0.734s
+[user-99] memory_records: 3, elapsed: 0.749s
+[user-29] memory_records: 3, elapsed: 0.737s
+[user-37] memory_records: 3, elapsed: 0.740s
+[user-19] memory_records: 3, elapsed: 0.748s
+[user-31] memory_records: 3, elapsed: 0.756s
+[user-34] memory_records: 3, elapsed: 0.748s
+[user-28] memory_records: 3, elapsed: 0.763s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-50] memory_records: 3, elapsed: 0.198s
+[user-2] memory_records: 3, elapsed: 0.210s
+[user-42] memory_records: 3, elapsed: 0.206s
+[user-74] memory_records: 3, elapsed: 0.210s
+[user-4] memory_records: 3, elapsed: 0.212s
+[user-31] memory_records: 3, elapsed: 0.215s
+[user-20] memory_records: 3, elapsed: 0.219s
+[user-64] memory_records: 3, elapsed: 0.221s
+[user-2] memory_records: 3, elapsed: 0.218s
+[user-6] memory_records: 3, elapsed: 0.224s
+[user-13] memory_records: 3, elapsed: 0.438s
+[user-90] memory_records: 3, elapsed: 0.441s
+[user-44] memory_records: 3, elapsed: 0.446s
+[user-42] memory_records: 3, elapsed: 0.465s
+[user-54] memory_records: 3, elapsed: 0.464s
+[user-61] memory_records: 3, elapsed: 0.468s
+[user-100] memory_records: 3, elapsed: 0.480s
+[user-39] memory_records: 3, elapsed: 0.491s
+[user-40] memory_records: 3, elapsed: 0.497s
+[user-61] memory_records: 3, elapsed: 0.517s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-91] memory_records: 3, elapsed: 0.200s
+[user-39] memory_records: 3, elapsed: 0.206s
+[user-77] memory_records: 3, elapsed: 0.212s
+[user-84] memory_records: 3, elapsed: 0.214s
+[user-30] memory_records: 3, elapsed: 0.218s
+[user-48] memory_records: 3, elapsed: 0.215s
+[user-52] memory_records: 3, elapsed: 0.224s
+[user-23] memory_records: 3, elapsed: 0.218s
+[user-14] memory_records: 3, elapsed: 0.228s
+[user-39] memory_records: 3, elapsed: 0.244s
+[user-31] memory_records: 3, elapsed: 0.422s
+[user-84] memory_records: 3, elapsed: 0.458s
+[user-64] memory_records: 3, elapsed: 0.467s
+[user-44] memory_records: 3, elapsed: 0.473s
+[user-82] memory_records: 3, elapsed: 0.488s
+[user-78] memory_records: 3, elapsed: 0.491s
+[user-72] memory_records: 3, elapsed: 0.511s
+[user-80] memory_records: 3, elapsed: 0.521s
+[user-18] memory_records: 3, elapsed: 0.522s
+[user-79] memory_records: 3, elapsed: 0.527s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-19] memory_records: 3, elapsed: 0.198s
+[user-71] memory_records: 3, elapsed: 0.201s
+[user-31] memory_records: 3, elapsed: 0.209s
+[user-1] memory_records: 3, elapsed: 0.203s
+[user-25] memory_records: 3, elapsed: 0.205s
+[user-95] memory_records: 3, elapsed: 0.202s
+[user-35] memory_records: 3, elapsed: 0.214s
+[user-74] memory_records: 3, elapsed: 0.209s
+[user-8] memory_records: 3, elapsed: 0.217s
+[user-45] memory_records: 3, elapsed: 0.231s
+[user-19] memory_records: 3, elapsed: 0.442s
+[user-86] memory_records: 3, elapsed: 0.463s
+[user-22] memory_records: 3, elapsed: 0.469s
+[user-35] memory_records: 3, elapsed: 0.468s
+[user-84] memory_records: 3, elapsed: 0.472s
+[user-3] memory_records: 3, elapsed: 0.469s
+[user-33] memory_records: 3, elapsed: 0.478s
+[user-21] memory_records: 3, elapsed: 0.491s
+[user-67] memory_records: 3, elapsed: 0.490s
+[user-52] memory_records: 3, elapsed: 0.503s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-38] memory_records: 3, elapsed: 0.200s
+[user-22] memory_records: 3, elapsed: 0.203s
+[user-57] memory_records: 3, elapsed: 0.204s
+[user-32] memory_records: 3, elapsed: 0.210s
+[user-64] memory_records: 3, elapsed: 0.216s
+[user-67] memory_records: 3, elapsed: 0.215s
+[user-21] memory_records: 3, elapsed: 0.223s
+[user-2] memory_records: 3, elapsed: 0.234s
+[user-51] memory_records: 3, elapsed: 0.225s
+[user-76] memory_records: 3, elapsed: 0.228s
+[user-82] memory_records: 3, elapsed: 0.440s
+[user-55] memory_records: 3, elapsed: 0.455s
+[user-68] memory_records: 3, elapsed: 0.449s
+[user-53] memory_records: 3, elapsed: 0.462s
+[user-74] memory_records: 3, elapsed: 0.476s
+[user-11] memory_records: 3, elapsed: 0.473s
+[user-20] memory_records: 3, elapsed: 0.507s
+[user-15] memory_records: 3, elapsed: 0.506s
+[user-96] memory_records: 3, elapsed: 0.510s
+[user-26] memory_records: 3, elapsed: 0.517s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-63] memory_records: 3, elapsed: 0.194s
+[user-27] memory_records: 3, elapsed: 0.204s
+[user-99] memory_records: 3, elapsed: 0.202s
+[user-51] memory_records: 3, elapsed: 0.202s
+[user-48] memory_records: 3, elapsed: 0.208s
+[user-32] memory_records: 3, elapsed: 0.211s
+[user-11] memory_records: 3, elapsed: 0.216s
+[user-39] memory_records: 3, elapsed: 0.214s
+[user-15] memory_records: 3, elapsed: 0.235s
+[user-64] memory_records: 3, elapsed: 0.236s
+[user-28] memory_records: 3, elapsed: 0.440s
+[user-52] memory_records: 3, elapsed: 0.454s
+[user-16] memory_records: 3, elapsed: 0.484s
+[user-11] memory_records: 3, elapsed: 0.489s
+[user-71] memory_records: 3, elapsed: 0.499s
+[user-59] memory_records: 3, elapsed: 0.494s
+[user-95] memory_records: 3, elapsed: 0.498s
+[user-7] memory_records: 3, elapsed: 0.503s
+[user-61] memory_records: 3, elapsed: 0.510s
+[user-3] memory_records: 3, elapsed: 0.530s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-15] memory_records: 3, elapsed: 0.198s
+[user-35] memory_records: 3, elapsed: 0.207s
+[user-9] memory_records: 3, elapsed: 0.205s
+[user-99] memory_records: 3, elapsed: 0.216s
+[user-30] memory_records: 3, elapsed: 0.208s
+[user-42] memory_records: 3, elapsed: 0.213s
+[user-22] memory_records: 3, elapsed: 0.215s
+[user-7] memory_records: 3, elapsed: 0.219s
+[user-92] memory_records: 3, elapsed: 0.219s
+[user-22] memory_records: 3, elapsed: 0.239s
+[user-68] memory_records: 3, elapsed: 0.399s
+[user-16] memory_records: 3, elapsed: 0.438s
+[user-95] memory_records: 3, elapsed: 0.453s
+[user-53] memory_records: 3, elapsed: 0.469s
+[user-15] memory_records: 3, elapsed: 0.467s
+[user-40] memory_records: 3, elapsed: 0.477s
+[user-75] memory_records: 3, elapsed: 0.482s
+[user-64] memory_records: 3, elapsed: 0.485s
+[user-79] memory_records: 3, elapsed: 0.496s
+[user-74] memory_records: 3, elapsed: 0.534s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-67] memory_records: 3, elapsed: 0.199s
+[user-81] memory_records: 3, elapsed: 0.204s
+[user-69] memory_records: 3, elapsed: 0.206s
+[user-1] memory_records: 3, elapsed: 0.213s
+[user-16] memory_records: 3, elapsed: 0.219s
+[user-79] memory_records: 3, elapsed: 0.219s
+[user-58] memory_records: 3, elapsed: 0.224s
+[user-77] memory_records: 3, elapsed: 0.228s
+[user-58] memory_records: 3, elapsed: 0.230s
+[user-93] memory_records: 3, elapsed: 0.327s
+[user-42] memory_records: 3, elapsed: 0.421s
+[user-57] memory_records: 3, elapsed: 0.434s
+[user-77] memory_records: 3, elapsed: 0.442s
+[user-26] memory_records: 3, elapsed: 0.455s
+[user-95] memory_records: 3, elapsed: 0.460s
+[user-22] memory_records: 3, elapsed: 0.460s
+[user-67] memory_records: 3, elapsed: 0.460s
+[user-44] memory_records: 3, elapsed: 0.464s
+[user-44] memory_records: 3, elapsed: 0.470s
+[user-93] memory_records: 3, elapsed: 0.479s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-88] memory_records: 3, elapsed: 0.200s
+[user-71] memory_records: 3, elapsed: 0.199s
+[user-91] memory_records: 3, elapsed: 0.208s
+[user-92] memory_records: 3, elapsed: 0.209s
+[user-10] memory_records: 3, elapsed: 0.215s
+[user-74] memory_records: 3, elapsed: 0.220s
+[user-22] memory_records: 3, elapsed: 0.214s
+[user-91] memory_records: 3, elapsed: 0.220s
+[user-60] memory_records: 3, elapsed: 0.216s
+[user-68] memory_records: 3, elapsed: 0.220s
+[user-92] memory_records: 3, elapsed: 0.444s
+[user-76] memory_records: 3, elapsed: 0.460s
+[user-64] memory_records: 3, elapsed: 0.461s
+[user-52] memory_records: 3, elapsed: 0.467s
+[user-82] memory_records: 3, elapsed: 0.489s
+[user-66] memory_records: 3, elapsed: 0.502s
+[user-4] memory_records: 3, elapsed: 0.514s
+[user-4] memory_records: 3, elapsed: 0.515s
+[user-96] memory_records: 3, elapsed: 0.517s
+[user-34] memory_records: 3, elapsed: 0.520s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-98] memory_records: 3, elapsed: 0.199s
+[user-67] memory_records: 3, elapsed: 0.200s
+[user-15] memory_records: 3, elapsed: 0.199s
+[user-84] memory_records: 3, elapsed: 0.203s
+[user-13] memory_records: 3, elapsed: 0.204s
+[user-67] memory_records: 3, elapsed: 0.205s
+[user-15] memory_records: 3, elapsed: 0.218s
+[user-85] memory_records: 3, elapsed: 0.238s
+[user-97] memory_records: 3, elapsed: 0.234s
+[user-31] memory_records: 3, elapsed: 0.244s
+[user-71] memory_records: 3, elapsed: 0.441s
+[user-80] memory_records: 3, elapsed: 0.453s
+[user-56] memory_records: 3, elapsed: 0.454s
+[user-31] memory_records: 3, elapsed: 0.456s
+[user-28] memory_records: 3, elapsed: 0.465s
+[user-39] memory_records: 3, elapsed: 0.466s
+[user-6] memory_records: 3, elapsed: 0.464s
+[user-44] memory_records: 3, elapsed: 0.475s
+[user-14] memory_records: 3, elapsed: 0.508s
+[user-70] memory_records: 3, elapsed: 0.569s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-99] memory_records: 3, elapsed: 0.196s
+[user-62] memory_records: 3, elapsed: 0.204s
+[user-34] memory_records: 3, elapsed: 0.211s
+[user-20] memory_records: 3, elapsed: 0.215s
+[user-2] memory_records: 3, elapsed: 0.222s
+[user-57] memory_records: 3, elapsed: 0.220s
+[user-40] memory_records: 3, elapsed: 0.218s
+[user-9] memory_records: 3, elapsed: 0.226s
+[user-18] memory_records: 3, elapsed: 0.250s
+[user-6] memory_records: 3, elapsed: 0.276s
+[user-82] memory_records: 3, elapsed: 0.391s
+[user-99] memory_records: 3, elapsed: 0.406s
+[user-94] memory_records: 3, elapsed: 0.443s
+[user-39] memory_records: 3, elapsed: 0.456s
+[user-89] memory_records: 3, elapsed: 0.462s
+[user-4] memory_records: 3, elapsed: 0.487s
+[user-65] memory_records: 3, elapsed: 0.494s
+[user-8] memory_records: 3, elapsed: 0.490s
+[user-40] memory_records: 3, elapsed: 0.499s
+[user-70] memory_records: 3, elapsed: 0.500s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-53] memory_records: 3, elapsed: 0.192s
+[user-58] memory_records: 3, elapsed: 0.196s
+[user-95] memory_records: 3, elapsed: 0.201s
+[user-44] memory_records: 3, elapsed: 0.207s
+[user-55] memory_records: 3, elapsed: 0.215s
+[user-24] memory_records: 3, elapsed: 0.210s
+[user-28] memory_records: 3, elapsed: 0.209s
+[user-38] memory_records: 3, elapsed: 0.219s
+[user-5] memory_records: 3, elapsed: 0.222s
+[user-65] memory_records: 3, elapsed: 0.239s
+[user-34] memory_records: 3, elapsed: 0.377s
+[user-60] memory_records: 3, elapsed: 0.429s
+[user-69] memory_records: 3, elapsed: 0.443s
+[user-91] memory_records: 3, elapsed: 0.456s
+[user-55] memory_records: 3, elapsed: 0.457s
+[user-43] memory_records: 3, elapsed: 0.454s
+[user-90] memory_records: 3, elapsed: 0.460s
+[user-5] memory_records: 3, elapsed: 0.469s
+[user-84] memory_records: 3, elapsed: 0.483s
+[user-28] memory_records: 3, elapsed: 0.498s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-73] memory_records: 3, elapsed: 0.211s
+[user-51] memory_records: 3, elapsed: 0.211s
+[user-4] memory_records: 3, elapsed: 0.219s
+[user-17] memory_records: 3, elapsed: 0.218s
+[user-52] memory_records: 3, elapsed: 0.215s
+[user-93] memory_records: 3, elapsed: 0.235s
+[user-2] memory_records: 3, elapsed: 0.230s
+[user-56] memory_records: 3, elapsed: 0.235s
+[user-30] memory_records: 3, elapsed: 0.261s
+[user-100] memory_records: 3, elapsed: 0.289s
+[user-95] memory_records: 3, elapsed: 0.384s
+[user-93] memory_records: 3, elapsed: 0.393s
+[user-28] memory_records: 3, elapsed: 0.425s
+[user-56] memory_records: 3, elapsed: 0.438s
+[user-80] memory_records: 3, elapsed: 0.467s
+[user-56] memory_records: 3, elapsed: 0.462s
+[user-11] memory_records: 3, elapsed: 0.470s
+[user-59] memory_records: 3, elapsed: 0.474s
+[user-35] memory_records: 3, elapsed: 0.496s
+[user-6] memory_records: 3, elapsed: 0.506s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-26] memory_records: 3, elapsed: 0.201s
+[user-5] memory_records: 3, elapsed: 0.199s
+[user-92] memory_records: 3, elapsed: 0.209s
+[user-68] memory_records: 3, elapsed: 0.211s
+[user-20] memory_records: 3, elapsed: 0.207s
+[user-85] memory_records: 3, elapsed: 0.208s
+[user-82] memory_records: 3, elapsed: 0.215s
+[user-94] memory_records: 3, elapsed: 0.216s
+[user-81] memory_records: 3, elapsed: 0.211s
+[user-0] memory_records: 3, elapsed: 0.221s
+[user-45] memory_records: 3, elapsed: 0.404s
+[user-28] memory_records: 3, elapsed: 0.419s
+[user-59] memory_records: 3, elapsed: 0.437s
+[user-96] memory_records: 3, elapsed: 0.443s
+[user-72] memory_records: 3, elapsed: 0.452s
+[user-23] memory_records: 3, elapsed: 0.474s
+[user-92] memory_records: 3, elapsed: 0.479s
+[user-9] memory_records: 3, elapsed: 0.481s
+[user-14] memory_records: 3, elapsed: 0.483s
+[user-39] memory_records: 3, elapsed: 0.486s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-75] memory_records: 3, elapsed: 0.197s
+[user-68] memory_records: 3, elapsed: 0.203s
+[user-94] memory_records: 3, elapsed: 0.198s
+[user-76] memory_records: 3, elapsed: 0.207s
+[user-83] memory_records: 3, elapsed: 0.208s
+[user-64] memory_records: 3, elapsed: 0.218s
+[user-89] memory_records: 3, elapsed: 0.218s
+[user-3] memory_records: 3, elapsed: 0.217s
+[user-53] memory_records: 3, elapsed: 0.222s
+[user-83] memory_records: 3, elapsed: 0.224s
+[user-74] memory_records: 3, elapsed: 0.428s
+[user-63] memory_records: 3, elapsed: 0.444s
+[user-38] memory_records: 3, elapsed: 0.456s
+[user-66] memory_records: 3, elapsed: 0.457s
+[user-14] memory_records: 3, elapsed: 0.480s
+[user-73] memory_records: 3, elapsed: 0.484s
+[user-13] memory_records: 3, elapsed: 0.479s
+[user-75] memory_records: 3, elapsed: 0.488s
+[user-44] memory_records: 3, elapsed: 0.492s
+[user-84] memory_records: 3, elapsed: 0.499s
+✅ 本轮完成!
+本轮开始，并发数： 20
+[user-24] memory_records: 3, elapsed: 0.199s
+[user-19] memory_records: 3, elapsed: 0.203s
+[user-83] memory_records: 3, elapsed: 0.205s
+[user-98] memory_records: 3, elapsed: 0.208s
+[user-49] memory_records: 3, elapsed: 0.212s
+[user-26] memory_records: 3, elapsed: 0.216s
+[user-54] memory_records: 3, elapsed: 0.220s
+[user-43] memory_records: 3, elapsed: 0.220s
+[user-44] memory_records: 3, elapsed: 0.230s
+[user-19] memory_records: 3, elapsed: 0.225s
+[user-55] memory_records: 3, elapsed: 0.421s
+[user-3] memory_records: 3, elapsed: 0.427s
+[user-52] memory_records: 3, elapsed: 0.441s
+[user-49] memory_records: 3, elapsed: 0.468s
+[user-74] memory_records: 3, elapsed: 0.466s
+[user-59] memory_records: 3, elapsed: 0.478s
+[user-45] memory_records: 3, elapsed: 0.474s
+[user-98] memory_records: 3, elapsed: 0.471s
+[user-44] memory_records: 3, elapsed: 0.479s
+[user-22] memory_records: 3, elapsed: 0.494s
+✅ 本轮完成!
+本轮开始，并发数： 20
+本轮开始，并发数： 10
+[user-97] memory_records: 3, elapsed: 0.457s
+[user-1] memory_records: 3, elapsed: 0.468s
+[user-87] memory_records: 3, elapsed: 0.516s
+[user-53] memory_records: 3, elapsed: 0.520s
+[user-22] memory_records: 3, elapsed: 0.533s
+[user-3] memory_records: 3, elapsed: 0.542s
+[user-58] memory_records: 3, elapsed: 0.547s
+[user-70] memory_records: 3, elapsed: 0.553s
+[user-58] memory_records: 3, elapsed: 0.556s
+[user-93] memory_records: 3, elapsed: 0.557s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-43] memory_records: 3, elapsed: 0.203s
+[user-100] memory_records: 3, elapsed: 0.207s
+[user-47] memory_records: 3, elapsed: 0.215s
+[user-19] memory_records: 3, elapsed: 0.214s
+[user-96] memory_records: 3, elapsed: 0.220s
+[user-97] memory_records: 3, elapsed: 0.228s
+[user-19] memory_records: 3, elapsed: 0.236s
+[user-48] memory_records: 3, elapsed: 0.234s
+[user-55] memory_records: 3, elapsed: 0.249s
+[user-79] memory_records: 3, elapsed: 0.267s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-14] memory_records: 3, elapsed: 0.201s
+[user-9] memory_records: 3, elapsed: 0.206s
+[user-68] memory_records: 3, elapsed: 0.214s
+[user-14] memory_records: 3, elapsed: 0.217s
+[user-93] memory_records: 3, elapsed: 0.214s
+[user-16] memory_records: 3, elapsed: 0.215s
+[user-64] memory_records: 3, elapsed: 0.219s
+[user-38] memory_records: 3, elapsed: 0.222s
+[user-64] memory_records: 3, elapsed: 0.239s
+[user-99] memory_records: 3, elapsed: 0.248s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-11] memory_records: 3, elapsed: 0.196s
+[user-25] memory_records: 3, elapsed: 0.195s
+[user-83] memory_records: 3, elapsed: 0.206s
+[user-27] memory_records: 3, elapsed: 0.202s
+[user-48] memory_records: 3, elapsed: 0.208s
+[user-73] memory_records: 3, elapsed: 0.222s
+[user-17] memory_records: 3, elapsed: 0.221s
+[user-92] memory_records: 3, elapsed: 0.260s
+[user-7] memory_records: 3, elapsed: 0.261s
+[user-12] memory_records: 3, elapsed: 0.261s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-10] memory_records: 3, elapsed: 0.198s
+[user-94] memory_records: 3, elapsed: 0.210s
+[user-48] memory_records: 3, elapsed: 0.209s
+[user-11] memory_records: 3, elapsed: 0.214s
+[user-46] memory_records: 3, elapsed: 0.210s
+[user-41] memory_records: 3, elapsed: 0.221s
+[user-77] memory_records: 3, elapsed: 0.222s
+[user-84] memory_records: 3, elapsed: 0.226s
+[user-14] memory_records: 3, elapsed: 0.226s
+[user-83] memory_records: 3, elapsed: 0.245s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-29] memory_records: 3, elapsed: 0.201s
+[user-11] memory_records: 3, elapsed: 0.204s
+[user-20] memory_records: 3, elapsed: 0.214s
+[user-100] memory_records: 3, elapsed: 0.208s
+[user-61] memory_records: 3, elapsed: 0.212s
+[user-20] memory_records: 3, elapsed: 0.221s
+[user-14] memory_records: 3, elapsed: 0.219s
+[user-84] memory_records: 3, elapsed: 0.221s
+[user-0] memory_records: 3, elapsed: 0.225s
+[user-57] memory_records: 3, elapsed: 0.225s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-69] memory_records: 3, elapsed: 0.197s
+[user-82] memory_records: 3, elapsed: 0.200s
+[user-99] memory_records: 3, elapsed: 0.198s
+[user-60] memory_records: 3, elapsed: 0.204s
+[user-58] memory_records: 3, elapsed: 0.201s
+[user-42] memory_records: 3, elapsed: 0.203s
+[user-11] memory_records: 3, elapsed: 0.214s
+[user-68] memory_records: 3, elapsed: 0.224s
+[user-23] memory_records: 3, elapsed: 0.227s
+[user-83] memory_records: 3, elapsed: 0.250s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-9] memory_records: 3, elapsed: 0.203s
+[user-36] memory_records: 3, elapsed: 0.198s
+[user-10] memory_records: 3, elapsed: 0.199s
+[user-7] memory_records: 3, elapsed: 0.199s
+[user-42] memory_records: 3, elapsed: 0.202s
+[user-5] memory_records: 3, elapsed: 0.208s
+[user-5] memory_records: 3, elapsed: 0.214s
+[user-53] memory_records: 3, elapsed: 0.216s
+[user-15] memory_records: 3, elapsed: 0.225s
+[user-24] memory_records: 3, elapsed: 0.234s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-48] memory_records: 3, elapsed: 0.193s
+[user-13] memory_records: 3, elapsed: 0.200s
+[user-53] memory_records: 3, elapsed: 0.198s
+[user-45] memory_records: 3, elapsed: 0.208s
+[user-42] memory_records: 3, elapsed: 0.214s
+[user-74] memory_records: 3, elapsed: 0.214s
+[user-99] memory_records: 3, elapsed: 0.213s
+[user-35] memory_records: 3, elapsed: 0.227s
+[user-99] memory_records: 3, elapsed: 0.225s
+[user-61] memory_records: 3, elapsed: 0.232s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-86] memory_records: 3, elapsed: 0.190s
+[user-96] memory_records: 3, elapsed: 0.202s
+[user-77] memory_records: 3, elapsed: 0.202s
+[user-83] memory_records: 3, elapsed: 0.209s
+[user-69] memory_records: 3, elapsed: 0.212s
+[user-92] memory_records: 3, elapsed: 0.207s
+[user-35] memory_records: 3, elapsed: 0.212s
+[user-67] memory_records: 3, elapsed: 0.215s
+[user-2] memory_records: 3, elapsed: 0.223s
+[user-66] memory_records: 3, elapsed: 0.229s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-5] memory_records: 3, elapsed: 0.205s
+[user-17] memory_records: 3, elapsed: 0.203s
+[user-95] memory_records: 3, elapsed: 0.205s
+[user-80] memory_records: 3, elapsed: 0.212s
+[user-65] memory_records: 3, elapsed: 0.217s
+[user-70] memory_records: 3, elapsed: 0.215s
+[user-75] memory_records: 3, elapsed: 0.222s
+[user-80] memory_records: 3, elapsed: 0.216s
+[user-75] memory_records: 3, elapsed: 0.225s
+[user-30] memory_records: 3, elapsed: 0.229s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-7] memory_records: 3, elapsed: 0.193s
+[user-74] memory_records: 3, elapsed: 0.202s
+[user-39] memory_records: 3, elapsed: 0.193s
+[user-25] memory_records: 3, elapsed: 0.205s
+[user-36] memory_records: 3, elapsed: 0.201s
+[user-27] memory_records: 3, elapsed: 0.205s
+[user-17] memory_records: 3, elapsed: 0.216s
+[user-34] memory_records: 3, elapsed: 0.221s
+[user-58] memory_records: 3, elapsed: 0.232s
+[user-85] memory_records: 3, elapsed: 0.238s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-55] memory_records: 3, elapsed: 0.199s
+[user-93] memory_records: 3, elapsed: 0.197s
+[user-63] memory_records: 3, elapsed: 0.199s
+[user-11] memory_records: 3, elapsed: 0.203s
+[user-62] memory_records: 3, elapsed: 0.215s
+[user-61] memory_records: 3, elapsed: 0.216s
+[user-45] memory_records: 3, elapsed: 0.231s
+[user-67] memory_records: 3, elapsed: 0.231s
+[user-82] memory_records: 3, elapsed: 0.243s
+[user-84] memory_records: 3, elapsed: 0.246s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-45] memory_records: 3, elapsed: 0.199s
+[user-24] memory_records: 3, elapsed: 0.199s
+[user-81] memory_records: 3, elapsed: 0.203s
+[user-63] memory_records: 3, elapsed: 0.197s
+[user-82] memory_records: 3, elapsed: 0.202s
+[user-38] memory_records: 3, elapsed: 0.217s
+[user-78] memory_records: 3, elapsed: 0.216s
+[user-84] memory_records: 3, elapsed: 0.215s
+[user-44] memory_records: 3, elapsed: 0.229s
+[user-23] memory_records: 3, elapsed: 0.231s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-80] memory_records: 3, elapsed: 0.203s
+[user-86] memory_records: 3, elapsed: 0.214s
+[user-38] memory_records: 3, elapsed: 0.213s
+[user-2] memory_records: 3, elapsed: 0.216s
+[user-24] memory_records: 3, elapsed: 0.219s
+[user-87] memory_records: 3, elapsed: 0.227s
+[user-67] memory_records: 3, elapsed: 0.225s
+[user-77] memory_records: 3, elapsed: 0.229s
+[user-15] memory_records: 3, elapsed: 0.228s
+[user-37] memory_records: 3, elapsed: 0.224s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-59] memory_records: 3, elapsed: 0.189s
+[user-42] memory_records: 3, elapsed: 0.195s
+[user-91] memory_records: 3, elapsed: 0.202s
+[user-55] memory_records: 3, elapsed: 0.205s
+[user-78] memory_records: 3, elapsed: 0.202s
+[user-31] memory_records: 3, elapsed: 0.210s
+[user-89] memory_records: 3, elapsed: 0.213s
+[user-71] memory_records: 3, elapsed: 0.215s
+[user-77] memory_records: 3, elapsed: 0.222s
+[user-39] memory_records: 3, elapsed: 0.234s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-68] memory_records: 3, elapsed: 0.198s
+[user-42] memory_records: 3, elapsed: 0.198s
+[user-62] memory_records: 3, elapsed: 0.207s
+[user-51] memory_records: 3, elapsed: 0.214s
+[user-92] memory_records: 3, elapsed: 0.208s
+[user-17] memory_records: 3, elapsed: 0.223s
+[user-60] memory_records: 3, elapsed: 0.222s
+[user-93] memory_records: 3, elapsed: 0.220s
+[user-38] memory_records: 3, elapsed: 0.225s
+[user-87] memory_records: 3, elapsed: 0.237s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-55] memory_records: 3, elapsed: 0.208s
+[user-60] memory_records: 3, elapsed: 0.208s
+[user-54] memory_records: 3, elapsed: 0.221s
+[user-0] memory_records: 3, elapsed: 0.226s
+[user-85] memory_records: 3, elapsed: 0.225s
+[user-80] memory_records: 3, elapsed: 0.231s
+[user-21] memory_records: 3, elapsed: 0.239s
+[user-77] memory_records: 3, elapsed: 0.231s
+[user-16] memory_records: 3, elapsed: 0.233s
+[user-16] memory_records: 3, elapsed: 0.244s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-99] memory_records: 3, elapsed: 0.209s
+[user-10] memory_records: 3, elapsed: 0.202s
+[user-94] memory_records: 3, elapsed: 0.212s
+[user-31] memory_records: 3, elapsed: 0.217s
+[user-45] memory_records: 3, elapsed: 0.219s
+[user-29] memory_records: 3, elapsed: 0.223s
+[user-93] memory_records: 3, elapsed: 0.217s
+[user-68] memory_records: 3, elapsed: 0.222s
+[user-87] memory_records: 3, elapsed: 0.221s
+[user-70] memory_records: 3, elapsed: 0.248s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-58] memory_records: 3, elapsed: 0.217s
+[user-80] memory_records: 3, elapsed: 0.227s
+[user-57] memory_records: 3, elapsed: 0.227s
+[user-60] memory_records: 3, elapsed: 0.248s
+[user-100] memory_records: 3, elapsed: 0.244s
+[user-64] memory_records: 3, elapsed: 0.248s
+[user-22] memory_records: 3, elapsed: 0.253s
+[user-19] memory_records: 3, elapsed: 0.260s
+[user-88] memory_records: 3, elapsed: 0.263s
+[user-27] memory_records: 3, elapsed: 0.269s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-93] memory_records: 3, elapsed: 0.201s
+[user-75] memory_records: 3, elapsed: 0.203s
+[user-56] memory_records: 3, elapsed: 0.216s
+[user-47] memory_records: 3, elapsed: 0.220s
+[user-65] memory_records: 3, elapsed: 0.218s
+[user-5] memory_records: 3, elapsed: 0.221s
+[user-99] memory_records: 3, elapsed: 0.219s
+[user-83] memory_records: 3, elapsed: 0.224s
+[user-63] memory_records: 3, elapsed: 0.241s
+[user-7] memory_records: 3, elapsed: 0.238s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-8] memory_records: 3, elapsed: 0.200s
+[user-38] memory_records: 3, elapsed: 0.213s
+[user-24] memory_records: 3, elapsed: 0.215s
+[user-50] memory_records: 3, elapsed: 0.219s
+[user-74] memory_records: 3, elapsed: 0.216s
+[user-85] memory_records: 3, elapsed: 0.223s
+[user-4] memory_records: 3, elapsed: 0.221s
+[user-17] memory_records: 3, elapsed: 0.229s
+[user-98] memory_records: 3, elapsed: 0.280s
+[user-26] memory_records: 3, elapsed: 0.280s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-53] memory_records: 3, elapsed: 0.200s
+[user-67] memory_records: 3, elapsed: 0.198s
+[user-14] memory_records: 3, elapsed: 0.199s
+[user-38] memory_records: 3, elapsed: 0.204s
+[user-62] memory_records: 3, elapsed: 0.215s
+[user-83] memory_records: 3, elapsed: 0.223s
+[user-91] memory_records: 3, elapsed: 0.234s
+[user-60] memory_records: 3, elapsed: 0.233s
+[user-23] memory_records: 3, elapsed: 0.236s
+[user-83] memory_records: 3, elapsed: 0.246s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-33] memory_records: 3, elapsed: 0.205s
+[user-96] memory_records: 3, elapsed: 0.205s
+[user-86] memory_records: 3, elapsed: 0.207s
+[user-10] memory_records: 3, elapsed: 0.215s
+[user-1] memory_records: 3, elapsed: 0.219s
+[user-5] memory_records: 3, elapsed: 0.220s
+[user-60] memory_records: 3, elapsed: 0.216s
+[user-15] memory_records: 3, elapsed: 0.216s
+[user-44] memory_records: 3, elapsed: 0.222s
+[user-99] memory_records: 3, elapsed: 0.236s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-9] memory_records: 3, elapsed: 0.191s
+[user-3] memory_records: 3, elapsed: 0.209s
+[user-44] memory_records: 3, elapsed: 0.217s
+[user-76] memory_records: 3, elapsed: 0.213s
+[user-31] memory_records: 3, elapsed: 0.216s
+[user-99] memory_records: 3, elapsed: 0.221s
+[user-83] memory_records: 3, elapsed: 0.227s
+[user-41] memory_records: 3, elapsed: 0.227s
+[user-96] memory_records: 3, elapsed: 0.228s
+[user-3] memory_records: 3, elapsed: 0.271s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-63] memory_records: 3, elapsed: 0.199s
+[user-9] memory_records: 3, elapsed: 0.194s
+[user-65] memory_records: 3, elapsed: 0.202s
+[user-47] memory_records: 3, elapsed: 0.214s
+[user-19] memory_records: 3, elapsed: 0.212s
+[user-69] memory_records: 3, elapsed: 0.210s
+[user-94] memory_records: 3, elapsed: 0.218s
+[user-81] memory_records: 3, elapsed: 0.219s
+[user-14] memory_records: 3, elapsed: 0.233s
+[user-63] memory_records: 3, elapsed: 0.238s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-53] memory_records: 3, elapsed: 0.195s
+[user-35] memory_records: 3, elapsed: 0.200s
+[user-92] memory_records: 3, elapsed: 0.210s
+[user-6] memory_records: 3, elapsed: 0.207s
+[user-48] memory_records: 3, elapsed: 0.214s
+[user-13] memory_records: 3, elapsed: 0.212s
+[user-30] memory_records: 3, elapsed: 0.214s
+[user-82] memory_records: 3, elapsed: 0.214s
+[user-26] memory_records: 3, elapsed: 0.224s
+[user-21] memory_records: 3, elapsed: 0.228s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-86] memory_records: 3, elapsed: 0.197s
+[user-35] memory_records: 3, elapsed: 0.204s
+[user-93] memory_records: 3, elapsed: 0.205s
+[user-19] memory_records: 3, elapsed: 0.214s
+[user-38] memory_records: 3, elapsed: 0.210s
+[user-0] memory_records: 3, elapsed: 0.214s
+[user-68] memory_records: 3, elapsed: 0.228s
+[user-99] memory_records: 3, elapsed: 0.231s
+[user-25] memory_records: 3, elapsed: 0.235s
+[user-92] memory_records: 3, elapsed: 0.235s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-43] memory_records: 3, elapsed: 0.191s
+[user-43] memory_records: 3, elapsed: 0.198s
+[user-27] memory_records: 3, elapsed: 0.206s
+[user-55] memory_records: 3, elapsed: 0.205s
+[user-60] memory_records: 3, elapsed: 0.213s
+[user-88] memory_records: 3, elapsed: 0.214s
+[user-27] memory_records: 3, elapsed: 0.225s
+[user-70] memory_records: 3, elapsed: 0.223s
+[user-54] memory_records: 3, elapsed: 0.226s
+[user-33] memory_records: 3, elapsed: 0.230s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-41] memory_records: 3, elapsed: 0.207s
+[user-96] memory_records: 3, elapsed: 0.204s
+[user-75] memory_records: 3, elapsed: 0.206s
+[user-4] memory_records: 3, elapsed: 0.209s
+[user-18] memory_records: 3, elapsed: 0.212s
+[user-54] memory_records: 3, elapsed: 0.208s
+[user-13] memory_records: 3, elapsed: 0.215s
+[user-26] memory_records: 3, elapsed: 0.217s
+[user-80] memory_records: 3, elapsed: 0.217s
+[user-5] memory_records: 3, elapsed: 0.222s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-61] memory_records: 3, elapsed: 0.203s
+[user-89] memory_records: 3, elapsed: 0.197s
+[user-43] memory_records: 3, elapsed: 0.201s
+[user-27] memory_records: 3, elapsed: 0.213s
+[user-24] memory_records: 3, elapsed: 0.210s
+[user-85] memory_records: 3, elapsed: 0.209s
+[user-81] memory_records: 3, elapsed: 0.217s
+[user-65] memory_records: 3, elapsed: 0.223s
+[user-67] memory_records: 3, elapsed: 0.218s
+[user-74] memory_records: 3, elapsed: 0.221s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-30] memory_records: 3, elapsed: 0.192s
+[user-62] memory_records: 3, elapsed: 0.203s
+[user-21] memory_records: 3, elapsed: 0.202s
+[user-79] memory_records: 3, elapsed: 0.206s
+[user-49] memory_records: 3, elapsed: 0.216s
+[user-52] memory_records: 3, elapsed: 0.212s
+[user-66] memory_records: 3, elapsed: 0.216s
+[user-29] memory_records: 3, elapsed: 0.217s
+[user-26] memory_records: 3, elapsed: 0.229s
+[user-73] memory_records: 3, elapsed: 0.237s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-69] memory_records: 3, elapsed: 0.199s
+[user-64] memory_records: 3, elapsed: 0.205s
+[user-15] memory_records: 3, elapsed: 0.202s
+[user-38] memory_records: 3, elapsed: 0.207s
+[user-94] memory_records: 3, elapsed: 0.207s
+[user-35] memory_records: 3, elapsed: 0.215s
+[user-54] memory_records: 3, elapsed: 0.222s
+[user-70] memory_records: 3, elapsed: 0.225s
+[user-59] memory_records: 3, elapsed: 0.238s
+[user-93] memory_records: 3, elapsed: 0.241s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-59] memory_records: 3, elapsed: 0.202s
+[user-76] memory_records: 3, elapsed: 0.204s
+[user-85] memory_records: 3, elapsed: 0.209s
+[user-60] memory_records: 3, elapsed: 0.210s
+[user-50] memory_records: 3, elapsed: 0.217s
+[user-27] memory_records: 3, elapsed: 0.224s
+[user-38] memory_records: 3, elapsed: 0.217s
+[user-91] memory_records: 3, elapsed: 0.223s
+[user-39] memory_records: 3, elapsed: 0.244s
+[user-8] memory_records: 3, elapsed: 0.247s
+✅ 本轮完成!
+本轮开始，并发数： 10
+[user-65] memory_records: 3, elapsed: 0.200s
+[user-30] memory_records: 3, elapsed: 0.195s
+[user-76] memory_records: 3, elapsed: 0.203s
+[user-2] memory_records: 3, elapsed: 0.211s
+[user-84] memory_records: 3, elapsed: 0.209s
+[user-46] memory_records: 3, elapsed: 0.214s
+[user-67] memory_records: 3, elapsed: 0.211s
+[user-51] memory_records: 3, elapsed: 0.213s
+[user-79] memory_records: 3, elapsed: 0.225s
+[user-57] memory_records: 3, elapsed: 0.225s
+✅ 本轮完成!
+本轮开始，并发数： 10

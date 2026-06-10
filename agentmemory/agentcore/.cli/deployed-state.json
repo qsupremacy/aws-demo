@@ -1,0 +1,16 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "memories": {
+          "CustomerSupportSemantic": {
+            "memoryId": "agentmemory_CustomerSupportSemantic-D8ShiGHZT5",
+            "memoryArn": "arn:aws:bedrock-agentcore:ap-southeast-1:536929972262:memory/agentmemory_CustomerSupportSemantic-D8ShiGHZT5"
+          }
+        },
+        "stackName": "AgentCore-agentmemory-default",
+        "deployHash": "3433cc6009b47c07"
+      }
+    }
+  }
+}
